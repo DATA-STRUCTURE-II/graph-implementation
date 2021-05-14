@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1590754901 source:d:\data structure ii\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"part1.h"
+	"part3.h"
+
+1590667947 d:\data structure ii\final project\part1.h
+
+1590756241 d:\data structure ii\final project\part3.h
+
+1591130754 source:c:\users\compumedia.mera\desktop\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"part1.h"
+	"part2.h"
+	"part3.h"
+
+1591028863 c:\users\compumedia.mera\desktop\final project\part1.h
+
+1591029048 c:\users\compumedia.mera\desktop\final project\part3.h
+
+1591028688 c:\users\compumedia.mera\desktop\final project\part2.h
+	"part1.h"
+
